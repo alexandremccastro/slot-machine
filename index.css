@@ -1,0 +1,15 @@
+* {
+  font-family: "Roboto", sans-serif;
+}
+#canvas {
+  background: #a7a7a7;
+  width: 400px;
+  height: 400px;
+}
+.container {
+  display: flex;
+  align-items: center;
+  justify-content: space-around;
+  height: 100vh;
+  flex-direction: column;
+}
